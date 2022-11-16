@@ -11,7 +11,7 @@ if BMI < 18.5:
 if 18.5 < BMI < 24.9:
     print("normal height")
 
-if 29.9 < BMI < 25:
+if 25 < BMI < 29.9:
     print("overheight")
 
 if 30 < BMI < 34.9:
